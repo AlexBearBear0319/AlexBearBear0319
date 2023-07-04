@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hiung2009@live.com**
 
-- 📄 Know about my experiences [https://resume.io/r/cVkzjbSbG](https://resume.io/r/cVkzjbSbG)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vun-kian-hiung-alex-570ab4216/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
