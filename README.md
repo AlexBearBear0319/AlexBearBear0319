@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hiung2009" target="blank"><img src="https://img.shields.io/twitter/follow/hiung2009?logo=twitter&style=for-the-badge" alt="hiung2009" /></a> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Laravel, Vue js, Tailwind CSS.**
 
-- 🧳 I’m looking for **a job.**
+- 🧳 I’m looking for **web develop position in Singapore.**
 
 - 👨‍💻 All of my projects are available at [https://alexbearbear0319.github.io/alexvun.github.io/](https://alexbearbear0319.github.io/alexvun.github.io/)
 
