@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Alex Vun!</h1>
 <h3 align="center">  
-  <a href="https://github.com/AlexBearBear0319"><img src="(https://readme-typing-svg.herokuapp.com/demo/?color=476CF7&lines=Diploma+in+IT+from+TARUMT%F0%9F%87%B2%F0%9F%87%BE;Diving+deep+into+Vue.js%40Laravel%40PHP;I'm+taking+on+freelance+projects)"> </a></h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=476CF7&width=435&lines=Diploma+in+IT+from+TARUMT%F0%9F%87%B2%F0%9F%87%BE;Diving+deep+into+Vue.js%40Laravel%40PHP;I'm+taking+on+freelance+projects" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbearbear0319&label=Profile%20views&color=0e75b6&style=flat" alt="alexbearbear0319" /> </p>
 
