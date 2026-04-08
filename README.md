@@ -21,10 +21,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with a Diploma in IT from TARUMT 🇲🇾, currently seeking **Web Development opportunities in Singapore 🇸🇬**. I love turning complex problems into clean, interactive, and scalable web applications. Most recently, I served as the **Tech & Project Lead** for a 5-person team, architecting an AI-powered campus management app.
+I'm a passionate **Full-Stack Developer** with a Diploma in IT from TARUMT 🇲🇾, currently pursuing a **Bachelor's degree at SIM (Singapore Institute of Management) under the University of Wollongong (UOW) 🇸🇬🎓**. I love turning complex problems into clean, interactive, and scalable web applications. Most recently, I served as the **Tech & Project Lead** for a 5-person team, architecting an AI-powered campus management app.
 
 | | |
 |---|---|
+| 🎓 **Studying at** | SIM – University of Wollongong (UOW), Singapore |
 | 🔭 **Currently building** | [SIMplify](https://github.com/AlexBearBear0319/ITC-SIMplify) — A real-time, AI-powered campus study spot finder (Next.js 15 + Supabase) |
 | 🌱 **Currently mastering** | Next.js App Router, TypeScript, Supabase Auth/Postgres/RPC, AI SDKs |
 | 💼 **Looking for** | Full-Stack / Front-End / Back-End Web Developer roles in Singapore |
@@ -60,9 +61,9 @@ I'm a passionate **Full-Stack Developer** with a Diploma in IT from TARUMT 🇲�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbearbear0319&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexbearbear0319&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbearbear0319&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbearbear0319&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="170" alt="Top Languages" />
 </div>
 
 <br/>
@@ -74,7 +75,7 @@ I'm a passionate **Full-Stack Developer** with a Diploma in IT from TARUMT 🇲�
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexbearbear0319&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexbearbear0319&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
