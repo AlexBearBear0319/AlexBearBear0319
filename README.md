@@ -61,21 +61,19 @@ I'm a passionate **Full-Stack Developer** with a Diploma in IT from TARUMT 🇲�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbearbear0319&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="170" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbearbear0319&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=alexbearbear0319&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexbearbear0319&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexbearbear0319&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://trophy.gitdash.dev/?username=alexbearbear0319&theme=radical&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
